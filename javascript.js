@@ -38,7 +38,7 @@
 
         // ===== FUNCIÓN PARA GENERAR URL CON ID_UNICO DE GOOGLE SHEETS =====
         function generarUrlProfesional(profesional) {
-            return `${BASE_URL}/#${profesional.idUnico}`;
+            return `${BASE_URL}#${profesional.idUnico}`;
         }
 
         // ===== FUNCIÓN PARA ABRIR MODAL POR ID =====
