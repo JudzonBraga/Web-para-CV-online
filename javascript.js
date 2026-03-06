@@ -654,17 +654,11 @@ function formatPhone(phone) {
                                style="color: #667eea; word-break: break-all; font-size: 0.9rem; text-decoration: none; display: block; padding: 0.5rem; background: white; border-radius: 8px; border: 1px solid #667eea;">
                                 ${profesional.urlCompleta}
                             </a>
-                            <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 0.5rem;">
+                            <div style="display: flex; justify-content: center; align-items: center; margin-top: 0.5rem;">
                                 <span style="font-size: 0.8rem; color: #4a5568; background: white; padding: 0.2rem 0.8rem; border-radius: 20px; border: 1px solid #cbd5e0;">
                                     🆔 ID: ${profesional.idUnico}
                                 </span>
-                                <span style="font-size: 0.7rem; color: #718096;">
-                                    #fragmento
-                                </span>
                             </div>
-                            <p style="font-size: 0.8rem; color: #2d3748; margin-top: 0.5rem; background: white; padding: 0.3rem; border-radius: 8px;">
-                                ⚡ Al abrir este enlace, el modal se abrirá automáticamente
-                            </p>
                         </div>
                     </div>
                     <div class="modal-right">
