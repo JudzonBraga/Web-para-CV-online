@@ -1,7 +1,7 @@
 // ===== CONFIGURACIÓN =====
         const SHEET_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRR28qxQ7e-0D2BXZeEieWq8oKZ3mrsd5e4ovivQfXrpvG2cs3jkSEF2_5NNVSL3aWbU2oGzDao40FR/pub?output=csv';
         const ITEMS_PER_PAGE = 12;
-        const BASE_URL = 'https://sites.google.com/view/cv-iux';
+        const BASE_URL = 'https://judzonbraga.github.io/Web-para-CV-online';
 
         // ===== DATOS PARA LLENADO DE CONTACTO =====
         const ubicaciones = {
